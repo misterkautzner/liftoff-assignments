@@ -13,3 +13,4 @@ https://github.com/misterkautzner
 https://www.linkedin.com/in/john-kautzner/
 
 ### Resume
+https://github.com/misterkautzner/liftoff-assignments/blob/master/C1-Online_Profiles/LaunchCode%20Resume.pdf
